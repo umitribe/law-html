@@ -1,23 +1,26 @@
 {
   "meta": {
     "build": {
-      "build-date": "2025-05-16",
-      "codified-date": "2025-04-28",
+      "build-date": "2025-06-19",
+      "codified-date": "2025-05-05",
       "platform": {
         "reproducible": "true",
-        "version": "2.15.20"
+        "version": "2.16.1"
       },
       "publication": "publication/2025-04-22",
       "repositories": [
         {
-          "commit": "f90647d3063f62297a3cb4a753b63884527d28b9",
+          "commit": "245e773ddbef2f918ffc6dc4354e11f8aff2bde1",
           "name": "umitribe/law-xml"
         },
         {
-          "commit": "8163eecfdc10e5c04b6a5ddee1dc79a2111988f2",
+          "commit": "fb7a6f0c982ec2cf43fb092f62514a1dc3e878c0",
           "name": "umitribe/law-xml-codified"
         }
-      ]
+      ],
+      "search": {
+        "version": "v2"
+      }
     },
     "canonical-urls": {
       "html": "https://law.umitribe.org",
