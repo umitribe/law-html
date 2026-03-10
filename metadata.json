@@ -2,7 +2,7 @@
   "meta": {
     "build": {
       "build-date": "2026-03-10",
-      "codified-date": "2025-05-05",
+      "codified-date": "2025-07-06",
       "platform": {
         "reproducible": "true",
         "version": "2.18.17"
@@ -14,7 +14,7 @@
           "name": "umitribe/law-xml"
         },
         {
-          "commit": "3221aff43888217dc1af0181709802752c12e735",
+          "commit": "1cc094fbaa6f2df252ca688d3a58f15028c93ff8",
           "name": "umitribe/law-xml-codified"
         }
       ],
