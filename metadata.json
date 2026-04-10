@@ -1,20 +1,20 @@
 {
   "meta": {
     "build": {
-      "build-date": "2026-03-30",
-      "codified-date": "2026-03-13",
+      "build-date": "2026-04-10",
+      "codified-date": "2026-03-28",
       "platform": {
         "reproducible": "true",
-        "version": "2.19.3"
+        "version": "2.19.4"
       },
       "publication": "publication/2026-03-12",
       "repositories": [
         {
-          "commit": "137a32b0ef4f0cb1a4b2c7a2a55eebc20e69561d",
+          "commit": "b06d9e3260d20cb66d8b2d47a540996fd2bfbc04",
           "name": "umitribe/law-xml"
         },
         {
-          "commit": "3530d8d20bbf35d65e406379e5537395f1937362",
+          "commit": "c7717913ee4ed7587918a3c9a3896ae8c38d666d",
           "name": "umitribe/law-xml-codified"
         }
       ],
