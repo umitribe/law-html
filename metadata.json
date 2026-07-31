@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "build": {
+      "build-date": "2026-07-31",
+      "codified-date": "2024-10-30",
+      "platform": {
+        "reproducible": "false",
+        "version": "2.21.5"
+      },
+      "publication": "publication/2026-07-31",
+      "repositories": [
+        {
+          "commit": "a61c877598d50989f0be6d2391a7ded03af48ecd",
+          "name": "umitribe/law-xml"
+        },
+        {
+          "commit": "6224c13816ef677e748b63a4e7399c0d6fc71b52",
+          "name": "umitribe/law-xml-codified"
+        }
+      ],
+      "search": {
+        "version": "v2"
+      }
+    },
+    "canonical-urls": {
+      "html": "https://law.umitribe.org",
+      "html-bulk": "https://github.com/umitribe/law-html",
+      "law-git": "https://github.com/umitribe/law.git",
+      "static-assets": "https://github.com/umitribe/law-static-assets",
+      "xml-bulk": "https://github.com/umitribe/law-xml"
+    },
+    "contact": {
+      "email": "help@openlawlib.org"
+    },
+    "description": "",
+    "history-start": "2024-10-30"
+  }
+}
